@@ -7,4 +7,4 @@ From our analysis, we discovered that using <b> BMI, Weight, ap_hi, ap_lo, age a
 whether a person will suffer from CVD.
 
 To test out and see, please run file name: " IE0005_EL24_G5_submission.ipynb " <br>
-To further understand why we did some steps, you can view " IE0004_EL_G5_submission.ppt "
+To further understand why we did some steps, you can view " IE0005_EL_G5_submission.ppt "
